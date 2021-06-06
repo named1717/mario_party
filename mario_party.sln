@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mario_party", "mario_party.vcxproj", "{7B9B185E-A2D7-44E0-81EE-806A988F3741}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "..\Setup3\Setup3.vdproj", "{2E274943-42DB-44C6-9133-815AB1273039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9B185E-A2D7-44E0-81EE-806A988F3741}.Debug|x64.ActiveCfg = Debug|x64
+		{7B9B185E-A2D7-44E0-81EE-806A988F3741}.Debug|x64.Build.0 = Debug|x64
+		{7B9B185E-A2D7-44E0-81EE-806A988F3741}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B9B185E-A2D7-44E0-81EE-806A988F3741}.Debug|x86.Build.0 = Debug|Win32
+		{7B9B185E-A2D7-44E0-81EE-806A988F3741}.Release|x64.ActiveCfg = Release|x64
+		{7B9B185E-A2D7-44E0-81EE-806A988F3741}.Release|x64.Build.0 = Release|x64
+		{7B9B185E-A2D7-44E0-81EE-806A988F3741}.Release|x86.ActiveCfg = Release|Win32
+		{7B9B185E-A2D7-44E0-81EE-806A988F3741}.Release|x86.Build.0 = Release|Win32
+		{2E274943-42DB-44C6-9133-815AB1273039}.Debug|x64.ActiveCfg = Debug
+		{2E274943-42DB-44C6-9133-815AB1273039}.Debug|x86.ActiveCfg = Debug
+		{2E274943-42DB-44C6-9133-815AB1273039}.Debug|x86.Build.0 = Debug
+		{2E274943-42DB-44C6-9133-815AB1273039}.Release|x64.ActiveCfg = Release
+		{2E274943-42DB-44C6-9133-815AB1273039}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30AAD524-2867-4A5F-BD46-7F2928ECC5CA}
+	EndGlobalSection
+EndGlobal
